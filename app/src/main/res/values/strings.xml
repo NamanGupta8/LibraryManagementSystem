@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Library Management System</string>
+    <string name="date1">Date of Issue</string>
+    <string name="date2">Date of submission</string>
+    <string name="search"><u>Search Books</u></string>
+    <string name="issue"><u>Issue Books</u></string>
+    <string name="view"><u>View Issued</u></string>
+</resources>
